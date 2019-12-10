@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": "u1",
+      "id": 1,
       "nombre": "Adrian",
       "avatar": "https://cdn.icon-icons.com/icons2/1879/PNG/512/iconfinder-7-avatar-2754582_120519.png"
     }
