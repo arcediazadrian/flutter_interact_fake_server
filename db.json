@@ -2,11 +2,15 @@
   "users": [
     {
       "id": 1,
+      "email": "adrian@gmail.com",
+      "password": "adrian123",
       "nombre": "Adrian",
       "avatar": "https://cdn.icon-icons.com/icons2/1879/PNG/512/iconfinder-7-avatar-2754582_120519.png"
     },
     {
       "id": 2,
+      "email": "alejandro@gmail.com",
+      "password": "alejandro123",
       "nombre": "Alejandro",
       "avatar": "https://icon-library.net/images/avatar-png-icon/avatar-png-icon-23.jpg"
     }
